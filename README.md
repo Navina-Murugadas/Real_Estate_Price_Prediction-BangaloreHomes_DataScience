@@ -1,1 +1,1 @@
-# Real_Estate_Price_Prediction-BangaloreHomes_DataScience
+# REAL ESTATE PRICE PREDICTION (BANGALORE HOMES) - DATA SCIENCE
