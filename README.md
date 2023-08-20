@@ -40,4 +40,8 @@ The  front  end  is  built  up  of  straightforward  HTML.  To receive an estima
 With  several  characteristics,  the  suggested  method predicts  the  property  price  in  Bangalore.  We experimented with  different Machine Learning algorithms to  get  the  best  model.  When  compared  to  all  other algorithms,  the  Decision  Tree  Algorithm  achieved  the lowest loss and the greatest R-squared. Flask was used to create the website.
 
 # Real Estate Price Predictor:
+![Price1](https://github.com/Navina-Murugadas/Real_Estate_Price_Prediction-BangaloreHomes_DataScience/assets/72821323/55a3a0b8-e94f-441b-80bc-60a5cc94c4a7)
 
+![Price2](https://github.com/Navina-Murugadas/Real_Estate_Price_Prediction-BangaloreHomes_DataScience/assets/72821323/d4df08da-5135-4361-abb4-343572d26203)
+
+![Price3](https://github.com/Navina-Murugadas/Real_Estate_Price_Prediction-BangaloreHomes_DataScience/assets/72821323/bdeefba9-88c9-41d8-9d88-41bdbd6e750c)
