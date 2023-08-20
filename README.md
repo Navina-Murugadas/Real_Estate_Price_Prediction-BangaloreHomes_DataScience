@@ -3,11 +3,12 @@
 
 # Tools/Technologies used:
 1. Jupyter Notebook
-2. Flask
-3. Python
-4. HTML
-5. CSS
-6. JavaScript
+2. Programming - Python
+3. Pandas - Data Cleaning
+4. Matplotlib - Data Visualization
+5. SkLearn - Model Building
+6. Flask - Back end server
+7. HTML, CSS, Javascript - Website
 
 # Steps to create model:
 1. Import Libraries
