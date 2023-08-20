@@ -9,6 +9,7 @@
 5. SkLearn - Model Building
 6. Flask - Back end server
 7. HTML, CSS, Javascript - Website
+8. Postman - API testing
 
 # Steps to create model:
 1. Import Libraries
